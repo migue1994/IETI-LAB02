@@ -254,3 +254,6 @@ Tip: You can use the Google Chrome Developer tools under the Application tab to 
 # Application demo
 
 ![exe](public/img/execution.gif)
+
+### Username: miguel.rivera-r@mail.escuelaing.edu.co
+### Password: 123
